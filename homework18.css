@@ -1,0 +1,22 @@
+.body{
+    background-color: #F7FAFC;
+}
+
+.box{
+    width: 280px;
+    height: 468px;
+    background-color: #FFFFFF;
+    border: 2px solid lightgrey;
+
+}
+.color{
+    color: #4A5568;
+}
+
+.button{
+    width: 280px;
+    height: 61px;
+    background-color: #EA0774;
+    color: white;
+}
+
